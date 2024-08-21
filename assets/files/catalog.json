@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id" : 1,
+      "name" : "iPhone 12 Pro",
+      "description" : "Apple iPhone 12th generation",
+      "price" : 999,
+      "color" : "#33505a",
+      "image" : "https://regen.pk/cdn/shop/products/iphone-12-364028_91435cf4-a70c-419e-bf4b-c4878df680eb.jpg?v=1686390191"
+    },
+    {
+      "id" : 2,
+      "name" : "Pixel 5",
+      "description" : "Google Pixel Phone 5th generation",
+      "price" : 699,
+      "color" : "#00ac51",
+      "image" : "https://m.media-amazon.com/images/I/81AqwYyZjzL.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "M1 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1399,
+      "color" : "#e0bfae",
+      "image" : "https://www.counterpointresearch.com/wp-content/uploads/2021/02/counterpoint-macbook-air-m1-first-impressions-lead.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "iPhone 13 Pro",
+      "description" : "Apple iPhone 13th generation",
+      "price" : 1099,
+      "color" : "#544ee4",
+      "image" : "https://regen.pk/cdn/shop/products/Regen-iPhone-13-Blue_450x450.jpg?v=1674906995"
+    },
+    {
+      "id" : 5,
+      "name" : "Pixel 6",
+      "description" : "Google Pixel Phone 6th generation",
+      "price" : 799,
+      "color" : "#e3e4e9",
+      "image" : "https://pricehub.pk/wp-content/uploads/2024/04/Google-Pixel-6-Price-in-Pakistan3-fotor-20240416183051.png"
+    },
+    {
+      "id" : 6,
+      "name" : "M2 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1499,
+      "color" : "#f73984",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJa3-BGv88gw3fTXC_y_2DkaHf9ogW_0iwG1Xp-yU4J8wdtA3uPtDoE3pQGBK6d0bGNnE&usqp=CAU"
+    },
+    {
+      "id" : 7,
+      "name" : "Galaxy A05",
+      "description" : "Samsung Galaxy A Series",
+      "price" : 599,
+      "color" : "#1c1c1c",
+      "image" : "https://images.samsung.com/is/image/samsung/p6pim/pk/sm-a055flghpkd/gallery/pk-galaxy-a05-sm-a055-sm-a055flghpkd-539152036?$650_519_PNG$"
+    },
+    {
+      "id" : 8,
+      "name" : "iPhone 14 Pro",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1199,
+      "color" : "#7c95eb",
+      "image" : "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-yellow-2up-230307.jpg.news_app_ed.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "iPhone 14 Pro",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1199,
+      "color" : "#e0bfae",
+      "image" : "https://m-cdn.phonearena.com/images/phones/83636-350/Apple-iPhone-14-Pro-Max.jpg?w=1"
+    },
+    {
+      "id" : 10,
+      "name" : "Pixel 7",
+      "description" : "Google Pixel Phone 7th generation",
+      "price" : 899,
+      "color" : "#e0bfae",
+      "image" : "https://m.media-amazon.com/images/I/41-8P9PrydL._SL500_.jpg"
+    },
+    {
+      "id" : 11,
+      "name" : "M3 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1599,
+      "color" : "#e0bfae",
+      "image" : "https://tech4u.pk/wp-content/uploads/2024/03/Macbook-Air-M3-.jpeg"
+    },
+    {
+      "id" : 12,
+      "name" : "Samsung A04s",
+      "description" : "Samsung Galaxy A Series",
+      "price" : 499,
+      "color" : "#e0bfae",
+      "image" : "https://images.samsung.com/is/image/samsung/p6pim/pk/feature/164639002/pk-feature-minimal-look--quality-design-537050999?$FB_TYPE_A_MO_JPG$"
+    },
+    {
+      "id" : 13,
+      "name" : "iPhone 15 Pro",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1299,
+      "color" : "#e0bfae",
+      "image" : "https://www.mega.pk/items_images/Apple+iPhone+15_-_24628.webp"
+    },
+    {
+      "id" : 14,
+      "name" : "Pixel 8",
+      "description" : "Google Pixel Phone 8th generation",
+      "price" : 999,
+      "color" : "#e0bfae",
+      "image" : "https://qmart.pk/cdn/shop/files/Google-Pixel-8-Qmart-2_0bc39a03-efdd-411f-803b-33feed989b00.jpg?v=1698132515&width=1000"
+    },
+    {
+      "id" : 15,
+      "name" : "M4 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1699,
+      "color" : "#e0bfae",
+      "image" : "https://cdn.mos.cms.futurecdn.net/WQM4zjDmKGBfYGqCdoAFM9-320-80.jpg"
+    },
+    {
+      "id" : 16,
+      "name" : "Galaxy A13",
+      "description" : "Samsung Galaxy A Series",
+      "price" : 699,
+      "color" : "#e0bfae",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_pit9G4XU0uK79pA8kaPI9ooojbRMP9ej2whX8_XUaOb4JNboBES9bWXYzy3ol_baxo&usqp=CAU"
+    },
+    {
+      "id" : 17,
+      "name" : "iPhone 16",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1399,
+      "color" : "#e0bfae",
+      "image" : "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44772,resizemode-75,msid-105211581/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18.jpg"
+    },
+    {
+      "id" : 18,
+      "name" : "M5 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1799,
+      "color" : "#e0bfae",
+      "image" : "https://www.plug.tech/cdn/shop/files/MacbookCoreIntelCoreM3Gold_Front_f120fe3d-95b2-410e-b321-9ea20db9ffb1.png?v=1701190205&width=2048"
+    },
+    {
+      "id" : 19,
+      "name" : "Pixel 9",
+      "description" : "Google Pixel Phone 9th generation",
+      "price" : 1099,
+      "color" : "#e0bfae",
+      "image" : "https://m-cdn.phonearena.com/images/phones/84404-940/Google-Pixel-9.jpg"
+    },
+    {
+      "id" : 20,
+      "name" : "Galaxy A13",
+      "description" : "Samsung Galaxy A Series",
+      "price" : 799,
+      "color" : "#e0bfae",
+      "image" : "https://images.samsung.com/is/image/samsung/p6pim/pk/sm-a245flgvpkd/gallery/pk-galaxy-a24-sm-a245-sm-a245flgvpkd-538124708?$650_519_PNG$"
+    },
+    {
+      "id" : 21,
+      "name" : "iPhone 8",
+      "description" : "Apple iPhone 8th generation",
+      "price" : 599,
+      "color" : "#e0bfae",
+      "image" : "https://www.whatamobile.com.pk/wp-content/uploads/2024/05/iphone-8-specs-1-600x600-1.png"
+    },
+    {
+      "id" : 22,
+      "name" : "Pixel XL",
+      "description" : "Google Pixel Phone XL generation",
+      "price" : 1999,
+      "color" : "#e0bfae",
+      "image" : "https://propakistani.pk/price/wp-content/uploads/2017/11/Google-Pixel-XL-1.jpg"
+    },
+    {
+      "id" : 23,
+      "name" : "M2 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1499,
+      "color" : "#e0bfae",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-CH2ezuC1fkn02ZQHipqQIv5kKnDlu56c57rMnu1IrpladtrU_GDzQ4iDRyMAcltSUI&usqp=CAU"
+    },
+    {
+      "id" : 24,
+      "name" : "M6 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 1899,
+      "color" : "#e0bfae",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwjF-aCqzhlHD8JNf6rifdDw43wlIVD_VCXzEWrU_fIPPpLQrE4luuiVhFQZF2UtT1sY&usqp=CAU"
+    },
+    {
+      "id" : 25,
+      "name" : "iPhone 11",
+      "description" : "Apple iPhone 11th generation",
+      "price" : 899,
+      "color" : "#e0bfae",
+      "image" : "https://www.purchase.com.pk/wp-content/uploads/2021/12/apple-iphone-11.jpg"
+    },
+    {
+      "id" : 26,
+      "name" : "iPhone X",
+      "description" : "Apple iPhone X generation",
+      "price" : 1599,
+      "color" : "#e0bfae",
+      "image" : "https://www.purchase.com.pk/wp-content/uploads/2021/12/apple-iphone-x.jpg"
+    },
+    {
+      "id" : 27,
+      "name" : "iPhone 14 Pro",
+      "description" : "Apple iPhone 14th Pro generation",
+      "price" : 1499,
+      "color" : "#e0bfae",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-A6XHqPC0LOQjLj8oqPyE7rcl6l7uCUUgbWKi8FPPROdRMw18JTvQvloBnflufWio-Q&usqp=CAU"
+    },
+    {
+      "id" : 28,
+      "name" : "iPhone 14",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1399,
+      "color" : "#e0bfae",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ywp-upbyJTytIJFjfJKNlCookkvs-s7qUw8YIODxcZpvKlVShbqDa5lGB73rGacr7Q&usqp=CAU"
+    },
+    {
+      "id" : 29,
+      "name" : "iPhone 14 Pro",
+      "description" : "Apple iPhone 14th generation",
+      "price" : 1499,
+      "color" : "#e0bfae",
+      "image" : "https://assets.hardwarezone.com/img/2022/09/iphone14-pro-vs-iphone13-pro.jpg"
+    },
+    {
+      "id" : 30,
+      "name" : "iPhone 14 Pro Max",
+      "description" : "Apple iPhone 14th Pro Max generation",
+      "price" : 2099,
+      "color" : "#e0bfae",
+      "image" : "https://www.notebookcheck.net/uploads/tx_nbc2/AppleiPhone14Pro__1__01.JPG"
+    },
+    {
+      "id" : 31,
+      "name" : "iPhone 11 Pro Max",
+      "description" : "Apple iPhone 11th Pro Max generation",
+      "price" : 1699,
+      "color" : "#e0bfae",
+      "image" : "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/15/bcdd685d-b63d-4ec3-8ae6-54bf6de6a995.jpg"
+    },
+    {
+      "id" : 32,
+      "name" : "iPhone 14 Pro",
+      "description" : "Apple iPhone 14th Pro generation",
+      "price" : 1499,
+      "color" : "#e0bfae",
+      "image" : "https://techcrunch.com/wp-content/uploads/2022/09/Apple-iphone-14-Pro-review-1.jpeg"
+    },
+    {
+      "id" : 33,
+      "name" : "iPhone Pro Max",
+      "description" : "Apple iPhone Pro Max",
+      "price" : 1899,
+      "color" : "#e0bfae",
+      "image" : "https://www.thenews.com.pk/assets/uploads/updates/2024-05-09/1187134_836476_11111_updates.jpg"
+    },
+    {
+      "id" : 34,
+      "name" : "iPhone 15",
+      "description" : "Apple iPhone 15th generation",
+      "price" : 1599,
+      "color" : "#e0bfae",
+      "image" : "https://i.gadgets360cdn.com/products/large/iphone-15-plus-553x800-1694549227.jpg?downsize=*:360"
+    },
+    {
+      "id" : 35,
+      "name" : "M13 Macbook Air",
+      "description" : "Apple Macbook Air with apple silicon",
+      "price" : 3199,
+      "color" : "#e0bfae",
+      "image" : "https://i5.walmartimages.com/seo/MacBook-Air-13-6-Inch-Case-A2681-M2-Chip-Hard-Shell-Cover-with-Keyboard-Cover-Film-compatible-for-MacBook-Air-13-M2-Clear_39eb9240-5a3a-489d-829c-47c9e114964c.bda91093a7228d3eab20287c638bdbf4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "id" : 36,
+      "name" : "iPhone 6",
+      "description" : "Apple iPhone 6th generation",
+      "price" : 599,
+      "color" : "#e0bfae",
+      "image" : "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111940_SP705-iphone_6-mul.png"
+    }
+  ]
+}
